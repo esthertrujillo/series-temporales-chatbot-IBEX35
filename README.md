@@ -1,4 +1,4 @@
-# 📊 README – Entrenamiento, predicciones y pruebas (TFM IBEX 35)
+# 📊 Entrenamiento, predicciones y pruebas (TFM IBEX 35)
 
 Este módulo agrupa el conjunto de scripts y notebooks dedicados a entrenar modelos de *machine learning* por empresa del IBEX 35, generar predicciones para distintos horizontes temporales y realizar pruebas sobre la precisión y comportamiento de los modelos.
 
